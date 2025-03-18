@@ -12,6 +12,9 @@ This project consists of:
 
 
 ---
+### **Architecture**
+![image](https://github.com/user-attachments/assets/d7573fc6-9406-4b94-b61a-59b5076ac3d2)
+
 
 ## 🚀 **Setup & Deployment**
 
